@@ -23,7 +23,7 @@ spec:
       integrity: 1639fd2f6d93d0dafe8594c632542e579c42d059
       tarball: 'https://github.com/excess17/ss002.git'
       
-       - version: v0.0.2
+    - version: v0.0.2
       shasum: 1639fd2f6d93d0dafe8594c632542e579c42d059
       integrity: 1639fd2f6d93d0dafe8594c632542e579c42d059
       tarball: 'https://github.com/excess17/ss002.git
