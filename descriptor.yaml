@@ -1,0 +1,12 @@
+code: ss002
+description: >-
+ A bundle to use for testing.
+
+components:
+  
+  contentTypes:
+    - contenttypes/my_content_type_descriptor.yaml
+
+  contentModels:
+    - contenttemplates/my_content_template_descriptor.yaml
+    - contenttemplates/another_content_template_descriptor.yaml
